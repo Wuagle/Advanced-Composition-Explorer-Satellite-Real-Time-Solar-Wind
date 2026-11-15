@@ -1,0 +1,142 @@
+[
+  {
+    "time_tag": "2026-11-04T00:00:00",
+    "dsflag": 0,
+    "dens": 5.0302916,
+    "speed": 346.13504,
+    "temperature": 24248.346
+  },
+  {
+    "time_tag": "2026-11-04T01:00:00",
+    "dsflag": 1,
+    "dens": 14.896985,
+    "speed": 367.18567,
+    "temperature": 95092.93
+  },
+  {
+    "time_tag": "2026-11-04T02:00:00",
+    "dsflag": 0,
+    "dens": 3.5345082,
+    "speed": 408.42258,
+    "temperature": 70573.188
+  },
+  {
+    "time_tag": "2026-11-04T04:00:00",
+    "dsflag": 0,
+    "dens": 4.1840992,
+    "speed": 368.24701,
+    "temperature": 57667.676
+  },
+  {
+    "time_tag": "2026-11-04T05:00:00",
+    "dsflag": 0,
+    "dens": 3.6878352,
+    "speed": 381.40741,
+    "temperature": 83786.227
+  },
+  {
+    "time_tag": "2026-11-04T06:00:00",
+    "dsflag": 0,
+    "dens": 3.2923217,
+    "speed": 411.18063,
+    "temperature": 106551.2
+  },
+  {
+    "time_tag": "2026-11-04T07:00:00",
+    "dsflag": 0,
+    "dens": 3.7831089,
+    "speed": 426.68314,
+    "temperature": 118954.62
+  },
+  {
+    "time_tag": "2026-11-04T08:00:00",
+    "dsflag": 0,
+    "dens": 2.1327784,
+    "speed": 423.64548,
+    "temperature": 133328.91
+  },
+  {
+    "time_tag": "2026-11-04T09:00:00",
+    "dsflag": 1,
+    "dens": 2.2502279,
+    "speed": 417.89349,
+    "temperature": 136775.64
+  },
+  {
+    "time_tag": "2026-11-04T10:00:00",
+    "dsflag": 1,
+    "dens": 1.8896308,
+    "speed": 425.23575,
+    "temperature": 163224.66
+  },
+  {
+    "time_tag": "2026-11-04T11:00:00",
+    "dsflag": 0,
+    "dens": 2.8498909,
+    "speed": 424.57874,
+    "temperature": 105954.33
+  },
+  {
+    "time_tag": "2026-11-04T12:00:00",
+    "dsflag": 0,
+    "dens": 1.789114,
+    "speed": 428.48877,
+    "temperature": 78894.141
+  },
+  {
+    "time_tag": "2026-11-04T13:00:00",
+    "dsflag": 0,
+    "dens": 2.2527273,
+    "speed": 416.74283,
+    "temperature": 94531.133
+  },
+  {
+    "time_tag": "2026-11-04T14:00:00",
+    "dsflag": 0,
+    "dens": 2.1387887,
+    "speed": 411.21085,
+    "temperature": 118935.1
+  },
+  {
+    "time_tag": "2026-11-04T17:00:00",
+    "dsflag": 0,
+    "dens": 2.2950003,
+    "speed": 419.01575,
+    "temperature": 78625.367
+  },
+  {
+    "time_tag": "2026-11-04T18:00:00",
+    "dsflag": 0,
+    "dens": 1.9238876,
+    "speed": 408.87491,
+    "temperature": 75368.844
+  },
+  {
+    "time_tag": "2026-11-04T19:00:00",
+    "dsflag": 0,
+    "dens": 0.9771899,
+    "speed": 405.68109,
+    "temperature": 79178.719
+  },
+  {
+    "time_tag": "2026-11-04T20:00:00",
+    "dsflag": 0,
+    "dens": 2.16347,
+    "speed": 391.85162,
+    "temperature": 70541.703
+  },
+  {
+    "time_tag": "2026-11-04T22:00:00",
+    "dsflag": 0,
+    "dens": 2.201736,
+    "speed": 390.73996,
+    "temperature": 69087.359
+  },
+  {
+    "time_tag": "2026-11-04T23:00:00",
+    "dsflag": 0,
+    "dens": 3.2479994,
+    "speed": 378.72113,
+    "temperature": 48766.777
+  }
+]

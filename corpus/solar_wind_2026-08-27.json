@@ -1,0 +1,114 @@
+[
+  {
+    "time_tag": "2026-08-27T23:00:00",
+    "dsflag": 1,
+    "dens": 1.1533446,
+    "speed": 269.31198,
+    "temperature": 14639.946
+  },
+  {
+    "time_tag": "2026-08-27T22:00:00",
+    "dsflag": 1,
+    "dens": 0.51527208,
+    "speed": 270.97202,
+    "temperature": 13899.257
+  },
+  {
+    "time_tag": "2026-08-27T16:00:00",
+    "dsflag": 0,
+    "dens": 0.48963392,
+    "speed": 258.08768,
+    "temperature": 14629.347
+  },
+  {
+    "time_tag": "2026-08-27T13:00:00",
+    "dsflag": 0,
+    "dens": 0.87613046,
+    "speed": 264.88815,
+    "temperature": 11714.42
+  },
+  {
+    "time_tag": "2026-08-27T12:00:00",
+    "dsflag": 0,
+    "dens": 1.0446781,
+    "speed": 265.42551,
+    "temperature": 11397.757
+  },
+  {
+    "time_tag": "2026-08-27T11:00:00",
+    "dsflag": 0,
+    "dens": 0.95110148,
+    "speed": 266.9567,
+    "temperature": 12960.692
+  },
+  {
+    "time_tag": "2026-08-27T10:00:00",
+    "dsflag": 0,
+    "dens": 0.92106199,
+    "speed": 266.13922,
+    "temperature": 14941.201
+  },
+  {
+    "time_tag": "2026-08-27T08:00:00",
+    "dsflag": 0,
+    "dens": 0.99028379,
+    "speed": 266.55383,
+    "temperature": 14067.544
+  },
+  {
+    "time_tag": "2026-08-27T07:00:00",
+    "dsflag": 0,
+    "dens": 1.1185796,
+    "speed": 270.04156,
+    "temperature": 13005.058
+  },
+  {
+    "time_tag": "2026-08-27T06:00:00",
+    "dsflag": 0,
+    "dens": 1.0656186,
+    "speed": 272.61447,
+    "temperature": 12791.619
+  },
+  {
+    "time_tag": "2026-08-27T05:00:00",
+    "dsflag": 0,
+    "dens": 1.6108781,
+    "speed": 273.67426,
+    "temperature": 13460.339
+  },
+  {
+    "time_tag": "2026-08-27T04:00:00",
+    "dsflag": 0,
+    "dens": 1.1479145,
+    "speed": 273.82681,
+    "temperature": 15316.301
+  },
+  {
+    "time_tag": "2026-08-27T03:00:00",
+    "dsflag": 0,
+    "dens": 1.3220593,
+    "speed": 281.38116,
+    "temperature": 25785.941
+  },
+  {
+    "time_tag": "2026-08-27T01:00:00",
+    "dsflag": 0,
+    "dens": 1.1288061,
+    "speed": 279.10944,
+    "temperature": 10945.14
+  },
+  {
+    "time_tag": "2026-08-27T00:00:00",
+    "dsflag": 0,
+    "dens": 1.0910029,
+    "speed": 285.48608,
+    "temperature": 115090.94
+  },
+  {
+    "time_tag": "2026-08-27T20:00:00",
+    "dsflag": 3,
+    "dens": null,
+    "speed": null,
+    "temperature": null
+  }
+]
