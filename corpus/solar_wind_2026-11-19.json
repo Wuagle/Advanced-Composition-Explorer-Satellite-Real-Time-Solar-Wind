@@ -96,5 +96,12 @@
     "dens": 2.5635114,
     "speed": 468.5166,
     "temperature": 145988.27
+  },
+  {
+    "time_tag": "2026-11-19T18:00:00",
+    "dsflag": 3,
+    "dens": null,
+    "speed": null,
+    "temperature": null
   }
 ]
